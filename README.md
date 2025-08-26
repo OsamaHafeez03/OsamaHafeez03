@@ -2,7 +2,7 @@
 I'm a data-driven problem solver with a passion for turning complexity into clarity. With hands-on experience in Python, SQL, and Power BI, I specialize in transforming raw data into actionable insights that fuel smarter decisions. Currently pursuing a Master's in Business Analytics, I bring a unique blend of technical precision and strategic thinking to every project.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/osama-hafeez-b572b21ba/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:osama.hafeez002@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/[https://www.linkedin.com/in/osama-hafeez002/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:osama.hafeez002@gmail.com) 
 
 <!-- Snake Game Repo View -->
 
